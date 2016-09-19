@@ -1,0 +1,24 @@
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Counter.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Desktop\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Сергей\Desktop\программы\калькулятор\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Counter.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\Новая папка\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Desktop\Новая папка\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Desktop\Новая папка\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Desktop\Новая папка\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Desktop\Новая папка\obj\x86\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Новая папка\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Сергей\Desktop\Новая папка\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Новая папка\obj\x86\Debug\Counter.csproj.GenerateResource.Cache
